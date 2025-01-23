@@ -1,0 +1,125 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
+  <diagram name="Page-1" id="xlpdYjgYw3qPz9PH2eGz">
+    <mxGraphModel dx="2667" dy="850" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="akqkvoF0evXeWd-GE654-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="akqkvoF0evXeWd-GE654-21" target="akqkvoF0evXeWd-GE654-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="akqkvoF0evXeWd-GE654-21" target="akqkvoF0evXeWd-GE654-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="akqkvoF0evXeWd-GE654-21" target="akqkvoF0evXeWd-GE654-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-21" value="&lt;p style=&quot;text-indent:-18.0pt;mso-list:l0 level1 lfo1&quot; class=&quot;MsoListParagraph&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;Times New Roman&quot;&gt;Steal user profiles, emergency contacts, and financial data from cloud storage&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="630" width="420" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="akqkvoF0evXeWd-GE654-22" target="akqkvoF0evXeWd-GE654-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-450" y="970.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="akqkvoF0evXeWd-GE654-22" target="akqkvoF0evXeWd-GE654-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-22" value="OR&lt;br&gt;Weak configurations, unpatched systems, or lack of logging" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="820" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="akqkvoF0evXeWd-GE654-26" target="akqkvoF0evXeWd-GE654-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-26" value="OR&lt;br&gt;SQL injection" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="830" y="790" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="akqkvoF0evXeWd-GE654-28" target="akqkvoF0evXeWd-GE654-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-28" value="OR&lt;br&gt;Weak Authentication&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=yellow;" vertex="1" parent="1">
+          <mxGeometry x="30.000000000000007" y="952.5" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-33" value="&#xa;Social engineering (phishing admins).&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=red;" vertex="1" parent="1">
+          <mxGeometry x="50.00000000000001" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="akqkvoF0evXeWd-GE654-42" target="akqkvoF0evXeWd-GE654-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-42" value="&lt;div&gt;Unauthorized access to sensitive user data stored in the cloud&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=yellow;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="950" width="175" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-43" value="Cloud database endpoint exploited via SQL injection" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=red;" vertex="1" parent="1">
+          <mxGeometry x="-222.5" y="1140" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="akqkvoF0evXeWd-GE654-45" target="akqkvoF0evXeWd-GE654-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-45" value="&lt;b&gt;&amp;nbsp;Extract sensitive information from backend databases&lt;/b&gt;:&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=yellow;" vertex="1" parent="1">
+          <mxGeometry x="812" y="937.5" width="226" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-48" value="&lt;br&gt;Privilege escalation within the backend serve" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=red;" vertex="1" parent="1">
+          <mxGeometry x="865" y="1090" width="120" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="akqkvoF0evXeWd-GE654-69" target="akqkvoF0evXeWd-GE654-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-69" value="&lt;br&gt;OR&lt;br&gt;&lt;div&gt;No multi-factor authentication&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="890" width="147.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="akqkvoF0evXeWd-GE654-77" target="akqkvoF0evXeWd-GE654-79">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="519.9999999999995" y="1205.0000000000002" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-77" value="&lt;div&gt;Credential theft via phishing&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=yellow;" vertex="1" parent="1">
+          <mxGeometry x="526.25" y="1037.5" width="155" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-79" value="&lt;br&gt;Credential stuffing" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=red;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1170" width="100" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-89" value="Vulnerability" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=yellow;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="630" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-90" value="Threat" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=red;" vertex="1" parent="1">
+          <mxGeometry x="-202.5" y="710" width="92.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="akqkvoF0evXeWd-GE654-92" target="akqkvoF0evXeWd-GE654-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-92" value="&#xa;Cloud Service&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="642.5" width="140" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="akqkvoF0evXeWd-GE654-95" target="akqkvoF0evXeWd-GE654-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-95" value="Or&lt;br&gt;use of weak hashing algorithms&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="akqkvoF0evXeWd-GE654-96" target="akqkvoF0evXeWd-GE654-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-96" value="&#xa;Authentication Server&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.411;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="akqkvoF0evXeWd-GE654-96" target="akqkvoF0evXeWd-GE654-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-101" value="&lt;div&gt;Brut force attack&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=yellow;" vertex="1" parent="1">
+          <mxGeometry x="305" y="1037.5" width="155" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="akqkvoF0evXeWd-GE654-104" target="akqkvoF0evXeWd-GE654-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-104" value="Server Backend&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="627.5" width="170" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="akqkvoF0evXeWd-GE654-107" target="akqkvoF0evXeWd-GE654-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="akqkvoF0evXeWd-GE654-107" value="&lt;br&gt;phishing to gain admin access" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=red;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1160" width="130" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
